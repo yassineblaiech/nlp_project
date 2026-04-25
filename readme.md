@@ -1,4 +1,4 @@
-# LoRA Fine-Tuned LLM for Aspect-Based Sentiment Extraction
+# LoRA Fine-Tuned LLM for extraction of aspect-based opinions from customer reviews
 
 **Author:** Yassine BLAIECH
 
